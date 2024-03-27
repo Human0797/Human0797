@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Human0797
 - 👀 I’m interested in Java and C++
 - 🌱 I’m currently learning Website Development
-- 📫 How to reach me : https://discordapp.com/users/773064105622896642
+- 📫 How to reach me : rizkirio0797@gmail.com
 - 😄 Pronouns : Panzerkamfwagen Tiger Ausf E / Him
 - ⚡ Fun fact : House Complex?, i find that quite simple
 
