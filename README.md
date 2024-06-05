@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Human0797
-- 👀 I’m interested in Java and C++
+- 👀 I’m interested in Linux
 - 🌱 I’m currently learning Website Development
 - 📫 How to reach me : rizkirio0797@gmail.com
 - 😄 Pronouns : Panzerkamfwagen Tiger Ausf E / Him
