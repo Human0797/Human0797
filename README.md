@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Website Development
 - 📫 How to reach me : rizkirio0797@gmail.com
 - 😄 Pronouns : Panzerkamfwagen Tiger Ausf E / Him
-- ⚡ Fun fact : House Complex?, i find that quite simple
+- ⚡ Fun fact : House Complex?, i find that quite simple!
 
 <!---
 Human0797/Human0797 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
